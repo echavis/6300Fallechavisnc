@@ -1,0 +1,6 @@
+*master:
+files in master branch, info.txt
+*develop:
+files in develop branch , develop1 and develop2 and develop3.txt
+*newfeature
+files in new feature branch, newffeature.txt and status.txt
